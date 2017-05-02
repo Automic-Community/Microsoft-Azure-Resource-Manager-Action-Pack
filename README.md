@@ -17,6 +17,8 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
+<p>&nbsp;</p>
+<p><img src="http://logo-logotype.com/wp-content/uploads/2016/10/Microsoft_Azure_logo_wordmark.png" alt="" width="442" height="148" /></p>
 <p>The actions use the ARM REST API to execute task on Microsoft Azure. First, the "Get Access Token" Action has to be executed, to get an access token from Azure. The retrieved access token has to be passed to all other actions, as input parameter</p>
 <ul>
 <li>Get Access Token</li>
