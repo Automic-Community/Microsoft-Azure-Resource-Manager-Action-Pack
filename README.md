@@ -28,8 +28,21 @@ Documenation and Instructions
 </ul>
 <p>&nbsp;</p>
 <p>The JSON syntax for "Deploy to Resource Group" action has to be as follows:</p>
-<pre>{<br />&nbsp;&nbsp;&nbsp; "properties": {<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "template": {<br />&nbsp;&lt;template definition - $schema, contentVersion, parameters, variables, resources&gt;<br />&nbsp;},<br />&nbsp;"parameters": {<br />&nbsp;&lt;parameter-defition&gt;<br />&nbsp;},<br />&nbsp;"mode": "Incremental"<br />&nbsp;}<br />}</pre>
-<p>&nbsp;</p>
+<pre><code>
+{
+    "properties": {
+        "template": {
+  &nbsp;(template definition - $schema, contentVersion, parameters, variables, resources)
+ },
+ "parameters": {
+ &nbsp;(parameter-defition)
+ },
+ "mode": "Incremental"
+ }
+}
+
+
+</code></pre>
 
 Copyright and License
 ---
