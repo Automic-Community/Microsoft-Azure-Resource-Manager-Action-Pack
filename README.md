@@ -30,14 +30,14 @@ Documenation and Instructions
 <p>The JSON syntax for "Deploy to Resource Group" action has to be as follows:</p>
 <pre><code>
 {
-    "properties": {
-        "template": {
-  &nbsp;(template definition - $schema, contentVersion, parameters, variables, resources)
- },
- "parameters": {
- &nbsp;(parameter-defition)
- },
- "mode": "Incremental"
+ "properties": {
+  "template": {
+   (template definition - $schema, contentVersion, parameters, variables, resources)
+  },
+  "parameters": {
+   (parameter-defition)
+  },
+  "mode": "Incremental"
  }
 }
 
