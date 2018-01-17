@@ -43,7 +43,7 @@ Documenation and Instructions
  }
 }
 </code></pre>
-<p><em><strong>*Since 17 Jan 2018, this community supported Action Pack may be replaced by this one when used with CA Automic Release Automation or CA Automic Service Orchestration: https://marketplace.automic.com/details/microsoft-azure-action-pack</strong></em></p>
+<p><em><strong>*Since 17 Jan 2018, this community supported Action Pack may be replaced by this one when used with CA Automic Release Automation or CA Automic Service Orchestration: <a href="https://marketplace.automic.com/details/microsoft-azure-action-pack">https://marketplace.automic.com/details/microsoft-azure-action-pack</a></strong></em></p>
 
 Copyright and License
 ---
